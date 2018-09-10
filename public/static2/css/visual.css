@@ -1,0 +1,28 @@
+.hidden-f {
+    display: none;
+}
+
+.field-value {
+    padding: 0 5px;    
+}
+
+.remove-question {
+    font-size: 24px;
+    padding: 0 10px 0;
+    display: inline-block;
+    color: #444444;
+}
+
+.remove-question:hover {
+    color: #cc0000;
+    cursor: pointer;
+}
+
+.add-criterion {
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.pagination ul {
+    padding-left: 0;
+}
